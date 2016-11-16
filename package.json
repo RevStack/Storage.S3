@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.Storage.S3",
+  "version": "1.0.0",
+  "description": "RevStack Storage implementation for Amazon S3.",
+  "main": "RevStack.Storage.S3.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/Storage.S3.git"
+  },
+  "author": "D. Sheets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/Storage.S3/issues"
+  },
+  "homepage": "https://github.com/RevStack/Storage.S3"
+}

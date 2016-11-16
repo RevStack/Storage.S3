@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.Storage.S3</id>
+    <version>1.0.0</version>
+    <title>RevStack.Storage.S3</title>
+    <authors>MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/Storage.S3/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/Storage.S3.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack Storage implementation for Amazon S3.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>File Management S3 RevStack Repository Pattern</tags>
+  </metadata>
+</package>
